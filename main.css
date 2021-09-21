@@ -1,0 +1,22 @@
+ body{
+    font-size: 32pt;
+    margin:0%;
+    width: 50%;
+    height:50%;
+    position:absolute;
+    left: 25%;
+    top: 15%;
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  .game {
+    font-size: 32pt;
+    font-weight: bold;
+    border-top: solid, 2px;
+  }
