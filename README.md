@@ -6,5 +6,5 @@
 ><li>If both player have equal wins round game will draw.
 <br/><br/>
 ## For any suggestion:grin: and help contact me on
-<a  href= "https://www.instagram.com/electro_react/"  target="_blank" ><img src="./readme docs/instagram.png" width="90" height="90" style="padding:40px" />
-<a href= "https://www.linkedin.com/in/yogesh-rana-992a25166/"  target="_blank" ><img src="./readme docs/linkdin.png" width="90" height="90" style="padding:40px"/>
+<a  href= "https://www.instagram.com/electro_react/"  target="_blank" ><img src="./readme_docs/instagram.png" width="90" height="90" style="padding:40px" />
+<a href= "https://www.linkedin.com/in/yogesh-rana-992a25166/"  target="_blank" ><img src="./readme_docs/linkdin.png" width="90" height="90" style="padding:40px"/>
